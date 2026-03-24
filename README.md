@@ -1,5 +1,3 @@
-# nordic_bridge
-=======
 # Nordic Bridge
 
 Universal compatibility bridge for FiveM. Configure your framework, inventory, notifications, clothing, TextUI, and interact/targeting once — every script that depends on `nordic_bridge` will use the same settings automatically.
