@@ -29,6 +29,9 @@ local ALIASES = {
     ['renewed_vehiclekeys'] = 'renewed-vehiclekeys',
     ['cd'] = 'cd_garage',
     ['okok'] = 'okokgarage',
+    ['mrnewb'] = 'mrnewbkeys',
+    ['mrnewbkeys'] = 'mrnewbkeys',
+    ['mrnewbvehiclekeys'] = 'mrnewbkeys',
 }
 
 --- Canonical mode string after alias expansion (lowercase).

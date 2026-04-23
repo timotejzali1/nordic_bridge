@@ -12,7 +12,7 @@ Universal compatibility bridge for FiveM. Configure your framework, inventory, n
 | **Clothing** | `illenium-appearance`, `rcore_clothing`, `qb-clothing` |
 | **TextUI** | `ox_lib` |
 | **Interact** | `ox_target`, `qb-target`, `nordic_interact`, `ox_lib` (fallback) |
-| **Vehicle keys** | `none`, `qb-vehiclekeys`, `qbx_vehiclekeys`, `wasabi_carlock`, `mk_vehiclekeys`, `qs-vehiclekeys`, `renewed-vehiclekeys`, `cd_garage`, `okokgarage`, `esx_vehiclelock`, `custom` |
+| **Vehicle keys** | `none`, `qb-vehiclekeys`, `qbx_vehiclekeys`, `wasabi_carlock`, `mk_vehiclekeys`, `qs-vehiclekeys`, `renewed-vehiclekeys`, `cd_garage`, `okokgarage`, `mrnewbkeys`, `esx_vehiclelock`, `custom` |
 
 ## Installation
 
